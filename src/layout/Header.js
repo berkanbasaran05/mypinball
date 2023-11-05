@@ -159,7 +159,7 @@ const Header = () => {
             </div>
             <div className="trigger">
               <div className="trigger_in" onClick={() => setToggle(!toggle)}>
-                <span className="text-white">Speisekarte</span>
+                <span className="text-white">Menü</span>
                 <span className="hamb">
                   <span className="hamb_a" />
                   <span className="hamb_b" />
