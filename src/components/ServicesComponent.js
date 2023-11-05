@@ -83,20 +83,6 @@ const ServicesComponent = () => {
                 </div>
               </div>
             </li>
-            <li>
-              <div className="item  md:ml-[550px] mb-24">
-                <div className="item_num">
-                  <span>5</span>
-                </div>
-                <div className="item_content">
-                  <h3 className="fn_title">Unvergessliches Spielerlebnis</h3>
-                  <p className="fn_desc fn_animated_text">
-                    MyPinball-Maschinen bieten Spaß und Spannung für alle
-                    Altersgruppen.
-                  </p>
-                </div>
-              </div>
-            </li>
           </ul>
         </div>
         {/* !Services */}
